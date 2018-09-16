@@ -1,4 +1,4 @@
-# how-to-install-nginx-and-php7.2-from-buster-on-raspberry
+# how-to-setup-nginx-and-php7.2-from-buster-on-raspberry
 
 You just read this tutorial
 
